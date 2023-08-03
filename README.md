@@ -13,10 +13,10 @@
 - 📫 Ping me *dintakurthiachuth@gmail.com (or) dintakurthiachuth01@gmail.com*
 # 💫 About Me :
 - 😄 Pronouns: He/His
-- 🌱 I’m currently learning more on Deep Learning.
+- 🌱 Full Stack developer and Data Scientist
 - 💬 Ask me about Data Science or any tech-related stuff.
 - 📫 How to reach me: Check social links below.
-- ⚡ I spend almost 6 hours listening to music every day whlle coding
+- ⚡ I spend almost 3-4 hours listening to music every day whlle coding
 
 
 ## 🌐 Socials
