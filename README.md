@@ -40,8 +40,7 @@
 
 ## 📟 GitHub Stats
 <p align="center">
-	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Achuth-aiml-cloud&show_icons=true&theme=vue" />
-	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Achuth-aiml-cloud&theme=vue" />
+	<img src="https://github-readme-streak-stats.herokuapp.com/?user=Achuth-aiml-cloud&theme=vue" />
 </p>
 
 ### ✍️Random Dev Quote
