@@ -4,7 +4,7 @@
          height="45"
          width="45" /> I'm Achuth Dintakurthi </h1>
 
-<h3 align="center">Welcome to my Github Profile </h3>
+<h3 align="center">Welcome to my Profile </h3>
 <hr />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Achuth-AA&label=Views&color=blue&style=plastic&style=for-the-badge" alt="iampawan" /> </p>
 <img align="right" alt="Coding" width="250" height="250" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif">
