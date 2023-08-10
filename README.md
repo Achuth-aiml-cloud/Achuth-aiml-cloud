@@ -2,7 +2,7 @@
 <h1 align="center"> Hola, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
          alt="Waving hand animated gif"
          height="45"
-         width="45" /> I'm Achuth Dintakurthi </h1>
+         width="45" /> I'm Achuth  </h1>
 
 <h3 align="center">Welcome to my Profile </h3>
 <hr />
@@ -14,7 +14,7 @@
 # 💫 About Me :
 - 😄 Pronouns: He/His
 - 🌱 Full Stack developer and Data Scientist
-- 💬 Ask me about Data Science or any tech-related stuff.
+- 💬 Check out my contribution to developer's community.
 - 📫 How to reach me: Check social links below.
 - ⚡ I spend almost 3-4 hours listening to music every day whlle coding
 
